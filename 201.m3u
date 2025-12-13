@@ -1,0 +1,1448 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#PLAYLIST:HomTV.ru
+
+#EXTINF:-1 group-title="Информационные",Первый HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Информационные",Первый канал
+http://95.66.188.74/PerviyKanal/mono.m3u8
+#EXTINF:-1 group-title="Информационные",Россия 1 HD
+http://95.66.188.74/Rossia1HD/mono.m3u8
+#EXTINF:-1 group-title="Информационные",Россия 1
+http://178.212.71.253:8000/play/2/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч!
+http://178.212.71.253:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="Информационные",НТВ
+http://178.212.71.253:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",5 канал
+http://95.66.188.74/5kanal/mono.m3u8
+#EXTINF:-1 group-title="Информационные",Россия К
+http://178.212.71.253:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="Информационные",Россия 24
+http://178.212.71.253:8000/play/7/index.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+http://178.212.71.253:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="Информационные",ОТР
+http://178.212.71.253:8000/play/9/index.m3u8
+#EXTINF:-1 group-title="Информационные",ТВЦ
+http://178.212.71.253:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Рен ТВ
+http://95.66.188.74/RenTV/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Спас
+http://95.66.188.74/spas/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://95.66.188.74/STS/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС HD
+http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
+http://178.212.71.253:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВ3
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница
+http://95.66.188.74/Pyatnica/mono.m3u8
+#EXTINF:-1 group-title="Информационные",Звезда
+http://95.66.188.74/Zvezda/mono.m3u8
+#EXTINF:-1 group-title="Информационные",Звезда+
+http://178.212.71.253:8000/play/130/index.m3u8
+#EXTINF:-1 group-title="Информационные",Мир
+http://178.212.71.253:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://95.66.188.74/TNT/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="Музыка",МузТВ
+http://178.212.71.253:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Че
+http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://95.66.188.74/U/mono.m3u8
+#EXTINF:-1 group-title="Детские",Суббота
+http://95.66.188.74/Subbota/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС Love
+http://95.66.188.74/CTC_Love/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://95.66.188.74/THT4/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",НТВ HD 
+http://178.212.71.253:8000/play/33/index.m3u8
+
+#EXTINF:-1 group-title="Информационные",360 HD
+http://95.66.188.74/360_HD/mono.m3u8
+#EXTINF:-1 group-title="Информационные",Мир 24
+http://178.212.71.253:8000/play/23/index.m3u8
+#EXTINF:-1 group-title="Информационные",Мир 24 HD
+http://178.212.71.253:8000/play/82/index.m3u8
+#EXTINF:-1 group-title="Информационные",РБК
+http://178.212.71.253:8000/play/36/index.m3u8
+#EXTINF:-1 group-title="Информационные",Вместе-РФ
+http://178.212.71.253:8000/play/84/index.m3u8
+#EXTINF:-1 group-title="Информационные",Беларусь 24
+http://178.212.71.253:8000/play/89/index.m3u8
+#EXTINF:-1 group-title="Информационные",8 канал
+http://178.212.71.253:8000/play/121/index.m3u8
+#EXTINF:-1 group-title="Информационные",Соловьев Live
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:-1 group-title="Информационные",Москва 24
+http://178.212.71.253:8000/play/28/index.m3u8
+#EXTINF:-1 group-title="Информационные",Красная линия
+http://95.66.188.74/Krasnaya_Liniya/mono.m3u8
+#EXTINF:-1 group-title="Информационные",Москва Доверие
+http://178.212.71.253:8000/play/53/index.m3u8
+#EXTINF:-1 group-title="Информационные",Известия
+http://178.212.71.253:8000/play/138/index.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные",Точка РФ
+http://178.212.71.253:8000/play/61/index.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG TV
+http://178.212.71.253:8000/play/71/index.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG HD
+http://95.66.188.74/RTGHD/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая природа
+http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая Планета
+http://178.212.71.253:8000/play/114/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+http://178.212.71.253:8000/play/117/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука
+http://178.212.71.253:8000/play/88/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая азия
+http://178.212.71.253:8000/play/83/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородный
+http://95.66.188.74/Zagorodniy/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Здоровое ТВ
+http://95.66.188.74/ZdorovoeTV/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Поехали!
+http://95.66.188.74/Poehali/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя планета HD
+http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+http://95.66.188.74/Istoria/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Арсенал HD
+http://95.66.188.74/Arsenal_HD/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+http://95.66.188.74/Kuhnya/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Победа
+http://95.66.188.74/Pobeda/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",RT Doc HD
+http://95.66.188.74/RT_Doc_HD/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Союз
+http://95.66.188.74/Soyuz/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Усадьба
+http://95.66.188.74/Usadba/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",365 дней
+http://178.212.71.253:8000/play/67/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Доктор
+http://178.212.71.253:8000/play/68/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Наша Тема
+http://178.212.71.253:8000/play/73/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Домашние животные
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Психология 21
+http://178.212.71.253:8000/play/96/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Вопросы и ответы
+http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Кто Есть Кто
+http://178.212.71.253:8000/play/132/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Продвижение
+http://178.212.71.253:8000/play/140/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",Русский Экстрим
+http://178.212.71.253:8000/play/118/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Охота и Рыбалка
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",2x2
+http://95.66.188.74/2x2/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",Драйв
+http://95.66.188.74/Drive/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",Оружие
+http://95.66.188.74/Oruzhie/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ювелирочка
+http://95.66.188.74/Juvelirochka/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",Витрина
+http://178.212.71.253:8000/play/32/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ЦТВ
+http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://178.212.71.253:8000/play/44/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Авто плюс
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://178.212.71.253:8000/play/119/index.m3u8
+
+#EXTINF:-1 group-title="Детские", Рыжий
+http://95.66.188.74/RYZHIY/mono.m3u8
+#EXTINF:-1 group-title="Детские", Мульт 
+http://95.66.188.74/Mult_HD/mono.m3u8
+#EXTINF:-1 group-title="Детские", Мама
+http://95.66.188.74/Mama/mono.m3u8
+#EXTINF:-1 group-title="Детские", Бобёр
+http://95.66.188.74/Bober/mono.m3u8
+#EXTINF:-1 group-title="Детские", Ani
+http://95.66.188.74/Ani/mono.m3u8
+#EXTINF:-1 group-title="Детские", Мультиландия
+http://95.66.188.74/Multilandia/mono.m3u8
+#EXTINF:-1 group-title="Детские", О!
+http://95.66.188.74/O/mono.m3u8
+#EXTINF:-1 group-title="Детские",Cолнце
+http://178.212.71.253:8000/play/103/index.m3u8
+#EXTINF:-1 group-title="Детские",СТС Kids
+http://178.212.71.253:8000/play/112/index.m3u8
+#EXTINF:-1 group-title="Детские",Детский Мир
+http://178.212.71.253:8000/play/52/index.m3u8
+#EXTINF:-1 group-title="Детские",Радость Моя
+http://178.212.71.253:8000/play/46/index.m3u8
+#EXTINF:-1 group-title="Детские",Мультимузыка
+http://178.212.71.253:8000/play/116/index.m3u8
+
+#EXTINF:-1 group-title="Детские резерв",TiJi
+http://tv.lamro.workers.dev/?ID=3148
+#EXTINF:-1 group-title="Детские резерв",BCU Мультсериал HD
+http://tv.lamro.workers.dev/?ID=5166
+#EXTINF:-1 group-title="Детские резерв",BCU Little HD
+http://tv.lamro.workers.dev/?ID=5186
+#EXTINF:-1 group-title="Детские резерв",BCU Kids HD
+http://tv.lamro.workers.dev/?ID=5187
+#EXTINF:-1 group-title="Детские резерв",BCU Kids+ HD
+http://tv.lamro.workers.dev/?ID=5188
+#EXTINF:-1 group-title="Детские резерв",ТипТоп
+http://tv.lamro.workers.dev/?ID=5121
+#EXTINF:-1 group-title="Детские резерв",Мульт HD
+http://tv.lamro.workers.dev/?ID=3269
+#EXTINF:-1 group-title="Детские резерв",ducktv HD
+http://tv.lamro.workers.dev/?ID=5060
+#EXTINF:-1 group-title="Детские резерв",Малыш ТВ
+http://tv.lamro.workers.dev/?ID=4894
+#EXTINF:-1 group-title="Детские резерв",Солнце
+http://tv.lamro.workers.dev/?ID=3339
+#EXTINF:-1 group-title="Детские резерв",Cartoon Network
+http://tv.lamro.workers.dev/?ID=3270
+#EXTINF:-1 group-title="Детские резерв",В гостях у сказки
+http://tv.lamro.workers.dev/?ID=4882
+#EXTINF:-1 group-title="Детские резерв",Капитан Фантастика HD
+http://tv.lamro.workers.dev/?ID=4745
+#EXTINF:-1 group-title="Детские резерв",О!
+http://tv.lamro.workers.dev/?ID=4876
+#EXTINF:-1 group-title="Детские резерв",ani
+http://tv.lamro.workers.dev/?ID=4865
+#EXTINF:-1 group-title="Детские резерв",Nick Jr.
+http://tv.lamro.workers.dev/?ID=3265
+#EXTINF:-1 group-title="Детские резерв",JimJam
+http://tv.lamro.workers.dev/?ID=3267
+#EXTINF:-1 group-title="Детские резерв",Gulli Girl
+http://tv.lamro.workers.dev/?ID=3266
+#EXTINF:-1 group-title="Детские резерв",Лева HD
+http://tv.lamro.workers.dev/?ID=5095
+#EXTINF:-1 group-title="Детские резерв",Карусель
+http://tv.lamro.workers.dev/?ID=3210
+#EXTINF:-1 group-title="Детские резерв",Nickelodeon
+http://tv.lamro.workers.dev/?ID=3215
+#EXTINF:-1 group-title="Детские резерв",Смайлик ТВ HD
+http://tv.lamro.workers.dev/?ID=5118
+#EXTINF:-1 group-title="Детские резерв",2x2
+http://tv.lamro.workers.dev/?ID=3199
+#EXTINF:-1 group-title="Детские резерв",Детский Мир
+http://tv.lamro.workers.dev/?ID=3176
+
+#EXTINF:-1 group-title="Музыка",Жара
+http://178.212.71.253:8000/play/141/index.m3u8
+#EXTINF:-1 group-title="Музыка",Music Box Russia
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge HD
+http://178.212.71.253:8000/play/98/index.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV
+http://95.66.188.74/BridgeTV/mono.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV Rock
+http://178.212.71.253:8000/play/101/index.m3u8
+#EXTINF:-1 group-title="Музыка",BridgeTV Hit
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV classic
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV Шлягер
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://178.212.71.253:8000/play/38/index.m3u8
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
+http://95.66.188.74/Shanson_TV/mono.m3u8
+#EXTINF:-1 group-title="Музыка",O2TV
+http://95.66.188.74/O2TV/mono.m3u8
+#EXTINF:-1 group-title="Музыка",1HD
+http://178.212.71.253:8000/play/60/index.m3u8
+#EXTINF:-1 group-title="Музыка",МузСоюз
+http://178.212.71.253:8000/play/43/index.m3u8
+#EXTINF:-1 group-title="Музыка",Mezzo
+http://178.212.71.253:8000/play/31/index.m3u8
+
+#EXTINF:-1 group-title="Музыка 2",ТНТ Music
+http://tmptv.sunduk.tv/CH121/index.m3u8
+
+#EXTINF:-1 group-title="Спорт",Конный Мир
+http://178.212.71.253:8000/play/108/index.m3u8
+#EXTINF:-1 group-title="Спорт",KHL
+http://95.66.188.74/KHL/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Боец
+http://95.66.188.74/MatchBoec/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+http://95.66.188.74/MatchIgra/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ HD
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 group-title="Спорт",Старт
+http://178.212.71.253:8000/play/81/index.m3u8
+
+#EXTINF:-1 group-title="Спорт резерв",Матч! Боец
+http://tv.lamro.workers.dev/?ID=3193
+#EXTINF:-1 group-title="Спорт резерв",Матч! Боец HD
+http://tv.lamro.workers.dev/?ID=5002
+#EXTINF:-1 group-title="Спорт резерв",MMA-TV
+http://tv.lamro.workers.dev/?ID=5071
+#EXTINF:-1 group-title="Спорт резерв",UDAR HD
+http://tv.lamro.workers.dev/?ID=4996
+#EXTINF:-1 group-title="Спорт резерв",Бокс ТВ
+http://tv.lamro.workers.dev/?ID=3337
+#EXTINF:-1 group-title="Спорт резерв",Матч! ТВ HD
+http://tv.lamro.workers.dev/?ID=4955
+#EXTINF:-1 group-title="Спорт резерв",Матч! Арена HD
+http://tv.lamro.workers.dev/?ID=3739
+#EXTINF:-1 group-title="Спорт резерв",viju+ Sport HD
+http://tv.lamro.workers.dev/?ID=4878
+#EXTINF:-1 group-title="Спорт резерв",Матч! Игра HD
+http://tv.lamro.workers.dev/?ID=4657
+#EXTINF:-1 group-title="Спорт резерв",Матч! Премьер HD
+http://tv.lamro.workers.dev/?ID=3737
+#EXTINF:-1 group-title="Спорт резерв",Матч! Страна
+http://tv.lamro.workers.dev/?ID=3236
+#EXTINF:-1 group-title="Спорт резерв",Матч! Планета
+http://tv.lamro.workers.dev/?ID=3717
+#EXTINF:-1 group-title="Спорт резерв",TV2 Sport Premium HD
+http://tv.lamro.workers.dev/?ID=4992
+#EXTINF:-1 group-title="Спорт резерв",TV2 Sport Premium 2 HD
+http://tv.lamro.workers.dev/?ID=4993
+#EXTINF:-1 group-title="Спорт резерв",КХЛ
+http://tv.lamro.workers.dev/?ID=3257
+#EXTINF:-1 group-title="Спорт резерв",Setanta Sport HD
+http://tv.lamro.workers.dev/?ID=4926
+#EXTINF:-1 group-title="Спорт резерв",Setanta sport 2 HD
+http://tv.lamro.workers.dev/?ID=4932
+#EXTINF:-1 group-title="Спорт резерв",Setanta Sports 1 HD PREMIUM+
+http://tv.lamro.workers.dev/?ID=5227
+#EXTINF:-1 group-title="Спорт резерв",Setanta Sports 2 HD PREMIUM+
+http://tv.lamro.workers.dev/?ID=5228
+#EXTINF:-1 group-title="Спорт резерв",Setanta Qazaqstan HD
+http://tv.lamro.workers.dev/?ID=5192
+#EXTINF:-1 group-title="Спорт резерв",Setanta Sports HD PREMIUM+
+http://tv.lamro.workers.dev/?ID=5226
+#EXTINF:-1 group-title="Спорт резерв",Окко Спорт HD
+http://tv.lamro.workers.dev/?ID=5238
+#EXTINF:-1 group-title="Спорт резерв",Матч! Футбол 1 HD
+http://tv.lamro.workers.dev/?ID=4741
+#EXTINF:-1 group-title="Спорт резерв",Матч! футбол 2 HD
+http://tv.lamro.workers.dev/?ID=3728
+#EXTINF:-1 group-title="Спорт резерв",Матч! Футбол 3 HD
+http://tv.lamro.workers.dev/?ID=4742
+#EXTINF:-1 group-title="Спорт резерв",Extreme Sports HD
+http://tv.lamro.workers.dev/?ID=5063
+
+#EXTINF:-1 group-title="Кино",Cinema
+http://95.66.188.74/Cinema/mono.m3u8
+#EXTINF:-1 group-title="Кино",Комедия
+http://95.66.188.74/Comedia/mono.m3u8
+#EXTINF:-1 group-title="Кино",Дом кино
+http://95.66.188.74/Dom_kino/mono.m3u8
+#EXTINF:-1 group-title="Кино",Дом кино премиум
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="Кино",Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="Кино",Мужское кино
+http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
+#EXTINF:-1 group-title="Кино",Наше новое кино
+http://95.66.188.74/NasheNovoeKino/mono.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс
+http://95.66.188.74/Kinomiks/mono.m3u8
+#EXTINF:-1 group-title="Кино",Киносерия
+http://95.66.188.74/Kinoseriya/mono.m3u8
+#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
+http://95.66.188.74/MosfilmHD/mono.m3u8
+#EXTINF:-1 group-title="Кино",НСТ
+http://95.66.188.74/NST/mono.m3u8
+#EXTINF:-1 group-title="Кино",Русский роман
+http://95.66.188.74/RusRoman/mono.m3u8
+#EXTINF:-1 group-title="Кино",Русский детектив
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
+#EXTINF:-1 group-title="Кино",Русский Бестселер
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья
+http://178.212.71.253:8000/play/127/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание
+http://178.212.71.253:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
+http://178.212.71.253:8000/play/123/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
+http://178.212.71.253:8000/play/125/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинокомедия
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1 group-title="Кино",Родное Кино
+http://178.212.71.253:8000/play/136/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://178.212.71.253:8000/play/78/index.m3u8
+#EXTINF:-1 group-title="Кино",Русский Иллюзион
+http://178.212.71.253:8000/play/49/index.m3u8
+#EXTINF:-1 group-title="Кино",Любимое кино
+http://178.212.71.253:8000/play/50/index.m3u8
+#EXTINF:-1 group-title="Кино",Индия
+http://178.212.71.253:8000/play/59/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносат
+http://178.212.71.253:8000/play/66/index.m3u8
+#EXTINF:-1 group-title="Кино",Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 group-title="Кино",Киноужас
+http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 group-title="Кино",Техно 24
+http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:-1 group-title="Кино",Ностальгия
+http://95.66.188.74/Nostalgia/mono.m3u8
+
+#EXTINF:-1 group-title="Кино2",Смотрим HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Кино2",Следствие вели... 
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино2",Star Media
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино2",Вне закона
+https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино2",Док-1
+https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино2",Док-2
+https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино2",LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино2",VHS-ка HD 
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:-1 group-title="Кино2",Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино2",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино2",Retro
+https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино2",Retro Classic
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино2",Retro Кинопанорама
+https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино2",Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
+#EXTINF:-1 group-title="НТВ Сериалы",НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериалы",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериалы",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериалы",НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериалы",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериалы",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="НТВ Сериалы",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+
+#EXTINF:-1 group-title="Пользовательский",Телекафе
+http://45.11.139.43:8555/telekafe/index.m3u8
+#EXTINF:-1 group-title="Пользовательский",Душевное HD
+http://tv.lamro.workers.dev/?ID=5231
+#EXTINF:-1 group-title="Пользовательский",Discovery
+http://tv.lamro.workers.dev/?ID=3319
+#EXTINF:-1 group-title="Пользовательский",РЕН ТВ International
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 group-title="Пользовательский",ID Xtra
+https://tv.tvcdnpotok.com/MmTnilmpU8G3fEiCH-zOcA/570/1765544331/index.m3u8
+#EXTINF:-1 group-title="Пользовательский",Nat Geo Wild HD
+http://188.237.47.212:6005
+
+#EXTINF:-1 group-title="Viju",VIP Comedy
+http://2.57.217.85:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Viju",VIP Megahit
+http://2.57.217.85:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Viju",VIP Premiere
+http://2.57.217.85:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Viju",TV1000
+http://2.57.217.85:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="Viju",TV1000 Русское кино
+http://2.57.217.85:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="Viju",TV1000 Action
+http://2.57.217.85:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="Viju",Viasat sport
+http://2.57.217.85:8000/play/a0a0/index.m3u8
+
+#EXTINF:-1 group-title="Viju резерв",viju+ Serial HD
+http://tv.lamro.workers.dev/?ID=4962
+#EXTINF:-1 group-title="Viju резерв",viju+ Comedy
+http://tv.lamro.workers.dev/?ID=4111
+#EXTINF:-1 group-title="Viju резерв",viju+ Premiere HD
+http://tv.lamro.workers.dev/?ID=4117
+#EXTINF:-1 group-title="Viju резерв",viju TV1000 action
+http://tv.lamro.workers.dev/?ID=3207
+#EXTINF:-1 group-title="Viju резерв",Мир сериала HD
+http://tv.lamro.workers.dev/?ID=5092
+#EXTINF:-1 group-title="Viju резерв",viju TV1000 русское
+http://tv.lamro.workers.dev/?ID=4923
+#EXTINF:-1 group-title="Viju резерв",viju Nature
+http://tv.lamro.workers.dev/?ID=3212
+#EXTINF:-1 group-title="Viju резерв",viju History
+http://tv.lamro.workers.dev/?ID=3206
+#EXTINF:-1 group-title="Viju резерв",viju+ Sport HD
+http://tv.lamro.workers.dev/?ID=4878
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4P473rb/image-18.png" group-title="Alpha",Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkDr4pzm/image-19.png" group-title="Alpha",Alpha Funny
+http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BRsytNR/image-20.png" group-title="Alpha",Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" group-title="CyberTV",CyberTV_1
+http://hls.goodgame.ru:8080/hls/214454.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" group-title="CyberTV",CyberTV_2
+http://hls.goodgame.ru:8080/hls/214433.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" group-title="CyberTV",CyberTV_3
+http://hls.goodgame.ru:8080/hls/214421.m3u8
+
+#EXTINF:-1 group-title="VHS",VHS-ка HD
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:-1 group-title="VHS",VHS кино
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="VHS",Видеокассета VHS
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 group-title="VHS",Видеосалон Vhs
+http://hls.goodgame.ru:8080/hls/175764.m3u8
+
+#EXTINF:-1 group-title="CineMan",CineMan Action
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManAction/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan Marvel
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-MARVEL/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan Melodrama
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManMelodrama/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan MiniSeries
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_miniseries/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan Premium
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Premium/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan Thriller
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Thiller/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan Top
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-TOP/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan VHS
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-VHS/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan Катастрофы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Katastrophe/index.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan Комедия
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CinaMan_Comedy/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan ПёС
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Pes/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan Сваты
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Svaty/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan Ужасы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Uzasy/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="CineMan",CineMan
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan/video.m3u8?token=RN6138Ueqk&21yo=0
+
+#EXTINF:-1 group-title="BCU",BCU Kids HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKidsHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Kids+ HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKidsplus/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Мультсериал HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMultserialHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Action HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUActionHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Catastrophe HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCatastropheHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Charm HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Charm_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Cinema HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Cinema+ HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaplusHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Comedy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUComedyHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Cosmo HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCosmoHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Criminal HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCriminalHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Fantastic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFantasticHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU FilMystic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFilMysticHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU History HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUHistoryHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Kinorating HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKinoratingHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Kinozakaz HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMEDIAHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Little HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Little_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Marvel HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMarvelHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Premiere HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Premiere Ultra 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereUltra4K/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Reality HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURealityHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Romantic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURomanticHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Stars HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUStarsHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Survival HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSurvivalHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU TruMotion HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_TruMotion_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU VHS HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUVHSHD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Кинозал Premiere 1 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere1HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Кинозал Premiere 2 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere2HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Кинозал Premiere 3 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere3HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BCU",BCU Сваты HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSvatiHD/video.m3u8?token=RN6138Ueqk&21yo=0
+
+#EXTINF:-1 group-title="BCU резерв",BCU Мультсериал HD
+http://tv.lamro.workers.dev/?ID=5166
+#EXTINF:-1 group-title="BCU резерв",BCU Little HD
+http://tv.lamro.workers.dev/?ID=5186
+#EXTINF:-1 group-title="BCU резерв",BCU Kids HD
+http://tv.lamro.workers.dev/?ID=5187
+#EXTINF:-1 group-title="BCU резерв",BCU Kids+ HD
+http://tv.lamro.workers.dev/?ID=5188
+#EXTINF:-1 group-title="BCU резерв",BCU Premiere 1 HD
+http://tv.lamro.workers.dev/?ID=5162
+#EXTINF:-1 group-title="BCU резерв",BCU Premiere 2 HD
+http://tv.lamro.workers.dev/?ID=5163
+#EXTINF:-1 group-title="BCU резерв",BCU CCCP HD
+http://tv.lamro.workers.dev/?ID=5167
+#EXTINF:-1 group-title="BCU резерв",BCU Action HD
+http://tv.lamro.workers.dev/?ID=5168
+#EXTINF:-1 group-title="BCU резерв",BCU Catastrophe HD
+http://tv.lamro.workers.dev/?ID=5169
+#EXTINF:-1 group-title="BCU резерв",BCU Fantastic HD
+http://tv.lamro.workers.dev/?ID=5171
+#EXTINF:-1 group-title="BCU резерв",BCU FilMystic HD
+http://tv.lamro.workers.dev/?ID=5172
+#EXTINF:-1 group-title="BCU резерв",BCU History HD
+http://tv.lamro.workers.dev/?ID=5173
+#EXTINF:-1 group-title="BCU резерв",BCU Premiere HD
+http://tv.lamro.workers.dev/?ID=5175
+#EXTINF:-1 group-title="BCU резерв",BCU Stars HD
+http://tv.lamro.workers.dev/?ID=5177
+#EXTINF:-1 group-title="BCU резерв",BCU RUSERIAL HD
+http://tv.lamro.workers.dev/?ID=5180
+#EXTINF:-1 group-title="BCU резерв",BCU Сваты HD
+http://tv.lamro.workers.dev/?ID=5181
+#EXTINF:-1 group-title="BCU резерв",BCU Criminal HD
+http://tv.lamro.workers.dev/?ID=5182
+#EXTINF:-1 group-title="BCU резерв",BCU Cinema HD
+http://tv.lamro.workers.dev/?ID=5183
+#EXTINF:-1 group-title="BCU резерв",BCU Kinorating HD
+http://tv.lamro.workers.dev/?ID=5184
+#EXTINF:-1 group-title="BCU резерв",BCU Cosmo HD
+http://tv.lamro.workers.dev/?ID=5237
+
+#EXTINF:-1 group-title="BOX",BOX Anime HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_anime_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Autotrend HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_AUTOTREND_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Cyber HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_cyber_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX DOCU HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_DOCU_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Fantasy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_fantasy_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Franchise HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_franchise_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Game HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_game_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Gangster HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_gangster_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Ghost HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GHOST_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Gurman HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GURMAN_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Hybrid HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_hybrid_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX M.Serial HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_mserial_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Mayday HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_mayday_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Memory HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_memory_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Oscar HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_oscar_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Serial HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_SERIAL_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Spy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_spy_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Stories HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_STORIES_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Travel HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_travel_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Travel Premiere HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_travel_premiere_HD/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="BOX",BOX Western HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_western_hd/video.m3u8?token=RN6138Ueqk&21yo=0
+
+#EXTINF:-1 group-title="Мультstream 16+",Разочарование
+rtmp://vkvsd35.okcdn.ru/playback/10070945508230?stkn=65Lz4K7rw44S8B4EfrPmF44ZQhA-4xu70hlqgKXeL5TjDb2uvBl1YxSHXQ_MO-Qi__zrzmpaSaY&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Мультstream 16+",Рик и Морти
+rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Мультstream 16+",Южный Парк
+rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkNgobKIyP4bDf_-mgfVTkXTdS41qOtuNnVfkvBf_6a3g29ec&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Мультstream 16+",Американский Папаша
+rtmp://vkvsd159.okcdn.ru/playback/9788012243768?stkn=y2I8ctxfmmJ0UuOx6X8yYWWy9hpKfdS4v8-o7EJ-a7ifD75t2akMVWRH04ZnOdjbIb-ZMiXbFgc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Мультstream 16+",Гриффины
+rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 group-title="Мультstream 16+",Futurama
+rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
+
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/BK8pbdS/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/YjdqDwK/Yosso-Adventure-120x120.png" logo="http://epg.one/img2/5984.png" channelId="-1" tvg-id="yossoadv-yosso" shift="3",Yosso TV Adventure
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Y-ADVENTURE/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso",Yosso TV Best 60 Fps
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOY-BEST_60FPS/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso",Yosso TV Best
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-BEST/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/xHcmHyf/Yosso-Grand-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20GRAND.png" channelId="-1" tvg-id="grand-yosso" shift="3",Yosso TV Grand
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-GRAND/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/J5JRvYM/Yosso-Music-Hits-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20Music%20Hits.png" channelId="-1" tvg-id="yossomusichits-yosso" shift="3",Yosso TV Music Hits
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MUSIC-HITS/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso",Yosso TV Netflix
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NETFLIX/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso",Yosso TV New Кино
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NEW/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/dcNTB42/Yosso-Oblivion-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20OBLIVION.png" channelId="-1" tvg-id="yossooblivion-yosso" shift="3",Yosso TV Oblivion
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yosso-OBLIVION/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/51JMdc9/Yosso-Thriller-120x120.png" logo="http://epg.one/img2/5631.png" channelId="-1" tvg-id="yossothriller-yosso" shift="3",Yosso TV Thriller
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOTHRILLER/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso",Yosso TV Vhs
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOVHS/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/cXSSH18/Yosso-Zabavnoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossozabavnoe-yosso" shift="3",Yosso TV Забавное
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-ZABAVNOE/index.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/vLsPvBk/Yosso-Kovbojskoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%9A%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossokowboy-yosso" shift="3",Yosso TV Ковбойское
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-KOWBOYSKOE/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso",Yosso TV Мелодрама
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/yossomdrama_yosso/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso",Yosso TV Советские Фильмы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SSSR/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/rpdYp6D/Yosso-Sojuzmult-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A1%D0%BE%D1%8E%D0%B7%D0%BC%D1%83%D0%BB%D1%8C%D1%82.png" channelId="-1" tvg-id="yossosovmult-yosso" shift="3",Yosso TV Союзмульт
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MULT/video.m3u8?token=RN6138Ueqk&21yo=0
+#EXTINF:-1 group-title="Yosso" tvg-logo="https://i.ibb.co/C5DCdWt/Yosso-Tragik-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A2%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossotragic-yosso" shift="3",Yosso TV Трагичное
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAGIK/video.m3u8?token=RN6138Ueqk&21yo=0
+
+#EXTINF:-1 group-title="Iptvplay",Iptvplay Ведьмак
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Iptvplay",Iptvplay Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Iptvplay",Iptvplay Десятое Королевство
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Iptvplay",Iptvplay Интерны
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Iptvplay",Iptvplay Мультсказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Iptvplay",Iptvplay Память
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Iptvplay",Iptvplay Ужастик
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Iptvplay",Iptvplay Фантастика
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:-1 group-title="Сити Эдем Sd",Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
+#EXTINF:-1 group-title="Сити Эдем Sd",Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
+#EXTINF:-1 group-title="Сити Эдем Sd",Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
+#EXTINF:-1 group-title="Сити Эдем Sd",Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
+#EXTINF:-1 group-title="Сити Эдем Sd",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
+#EXTINF:-1 group-title="Сити Эдем Sd",Сити Эдем - КиноСемья
+https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
+#EXTINF:-1 group-title="Сити Эдем Sd",Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
+#EXTINF:-1 group-title="Сити Эдем Sd",Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
+#EXTINF:-1 group-title="Сити Эдем Sd",Сити Эдем - ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
+
+#EXTINF:-1 group-title="Кинозалы",1Filmax
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="Кинозалы",2Filmax
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 group-title="Кинозалы",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы",312 Сериал
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы",43 канал
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы",Akudji
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 group-title="Кинозалы",Cinema Test
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",DTR Zona 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 group-title="Кинозалы",Dimpon
+http://hls.goodgame.ru:8080/hls/210470.m3u8
+#EXTINF:-1 group-title="Кинозалы",FAN HD
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 group-title="Кинозалы",FMC
+http://hls.goodgame.ru:8080/hls/187741.m3u8
+#EXTINF:-1 group-title="Кинозалы",Film Best
+http://hls.goodgame.ru:8080/hls/212682.m3u8
+#EXTINF:-1 group-title="Кинозалы",HotBeatsTV
+http://hls.goodgame.ru:8080/hls/191858.m3u8
+#EXTINF:-1 group-title="Кинозалы",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Кинозалы",Kino Mix
+http://hls.goodgame.ru:8080/hls/216612.m3u8
+#EXTINF:-1 group-title="Кинозалы",Kpot666Netot
+http://hls.goodgame.ru:8080/hls/207482.m3u8
+#EXTINF:-1 group-title="Кинозалы",LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",MIXM
+http://hls.goodgame.ru:8080/hls/181490.m3u8
+#EXTINF:-1 group-title="Кинозалы",Malder Всё тв
+http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:-1 group-title="Кинозалы",MegaRadio
+http://hls.goodgame.ru:8080/hls/175789.m3u8
+#EXTINF:-1 group-title="Кинозалы",Mikulski
+http://hls.goodgame.ru:8080/hls/167782.m3u8
+#EXTINF:-1 group-title="Кинозалы",Moviee Toper
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:-1 group-title="Кинозалы",Music Info News
+http://hls.goodgame.ru:8080/hls/211955.m3u8
+#EXTINF:-1 group-title="Кинозалы",P Boy Podpischik
+http://hls.goodgame.ru:8080/manifest/40391_master.m3u8
+#EXTINF:-1 group-title="Кинозалы",PRO100 TV
+http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Palmera Blanca Radio
+http://hls.goodgame.ru:8080/hls/214802.m3u8
+#EXTINF:-1 group-title="Кинозалы",SeleCaoTV 1
+http://hls.goodgame.ru:8080/hls/163253.m3u8
+#EXTINF:-1 group-title="Кинозалы",SeleCaoTV 2
+http://hls.goodgame.ru:8080/hls/157269.m3u8
+#EXTINF:-1 group-title="Кинозалы",SeriesTV
+http://hls.goodgame.ru:8080/hls/186021.m3u8
+#EXTINF:-1 group-title="Кинозалы",Sever TV
+http://hls.goodgame.ru:8080/hls/146065.m3u8
+#EXTINF:-1 group-title="Кинозалы",TV1 (KG)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы",TV4 HD
+https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",TV4
+https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",VHS кино
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="Кинозалы",VHS-ка HD
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",VIVA Russia
+http://hls.goodgame.ru:8080/hls/180805.m3u8
+#EXTINF:-1 group-title="Кинозалы",Video Arsenal
+http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:-1 group-title="Кинозалы",Zubrilom Film 2
+http://hls.goodgame.ru:8080/hls/218251.m3u8
+#EXTINF:-1 group-title="Кинозалы",Zubrilom Franchise
+http://hls.goodgame.ru:8080/hls/218193.m3u8
+#EXTINF:-1 group-title="Кинозалы",Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",Британский юмор
+http://hls.goodgame.ru:8080/hls/218490.m3u8
+#EXTINF:-1 group-title="Кинозалы",Видеокассета VHS
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 group-title="Кинозалы",Видеосалон Vhs
+http://hls.goodgame.ru:8080/hls/175764.m3u8
+#EXTINF:-1 group-title="Кинозалы",Восход ТВ
+http://hls.goodgame.ru:8080/hls/202997.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кибер Задов
+http://hls.goodgame.ru:8080/hls/210558.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозал
+http://185.57.68.33/237/mpegts
+#EXTINF:-1 group-title="Кинозалы",Кошмар HD
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="Кинозалы",МУви ТВ
+http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Кинозалы",Мультики и Сказки
+http://hls.goodgame.ru:8080/hls/198446.m3u8
+#EXTINF:-1 group-title="Кинозалы",Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",Новый Русский
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",Ретро Мульт
+http://hls.goodgame.ru:8080/hls/213086.m3u8
+#EXTINF:-1 group-title="Сити Эдем",Сити Эдем - Бирма Play
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем",Сити Эдем - КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем",Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем",Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем",Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем",Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем",Сити Эдем - МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 group-title="Сити Эдем",Сити Эдем - Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",Скрипач ТВ
+https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
+#EXTINF:-1 group-title="Кинозалы",Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 group-title="Кинозалы",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Ты супер !
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",Фантом
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:-1 group-title="Кинозалы",Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF: group-title="Архив.(-+)",Первый канал (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD//variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Первый канал (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Первый канал (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Первый канал (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-7200
+#EXTINF:  group-title="Архив.(-+)",Первый канал (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Первый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Первый канал (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Первый канал (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Первый канал (+6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Первый канал (+8)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Россия 1 (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Россия 1 (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Россия 1 (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Россия 1 (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Россия 1 (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Россия 1 (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Россия 1 (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Россия 1 (+6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Россия 1 (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",НТВ (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",НТВ (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",НТВ (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",НТВ (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",НТВ (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",НТВ (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",НТВ
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",НТВ (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",НТВ (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",НТВ (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Домашний (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Домашний (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Домашний (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Домашний (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Домашний (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Домашний (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Домашний
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Домашний (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Домашний (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Домашний (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",РЕН ТВ (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Матч!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Матч! (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Матч! (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Матч! (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Матч! (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Матч! (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Матч! (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Матч! (-7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-25200
+#EXTINF: group-title="Архив.(-+)",Матч! (-8)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-28800
+#EXTINF: group-title="Архив.(-+)",Матч! (-9)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-32400
+#EXTINF: group-title="Архив.(-+)",Пятый канал (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Пятый канал (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Пятый канал (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Пятый канал (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Пятый канал (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Пятый канал (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Пятый канал
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Пятый канал (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Пятый канал (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Пятый канал (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Карусель (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Карусель (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Карусель (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Карусель (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Карусель (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Карусель (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Карусель
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Карусель (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Карусель (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Карусель (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
+#EXTINF:  group-title="Архив.(-+)",Солнце (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Солнце (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Солнце (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Солнце (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Солнце (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Солнце (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Солнце
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Солнце (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Солнце (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Солнце (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",2x2 (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",2x2 (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",2x2 (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",2x2 (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",2x2 (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",2x2 (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",2x2
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8??version=3#parser
+#EXTINF: group-title="Архив.(-+)",2x2 (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",2x2 (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",2x2 (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",СТС (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",СТС (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",СТС (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",СТС (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",СТС (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",СТС (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",СТС
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",СТС (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",СТС (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",СТС (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",СТС Love (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",СТС Love (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",СТС Love (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",СТС Love (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",СТС Love (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",СТС Love (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",СТС Love
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",СТС Love (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",СТС Love (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",СТС Love (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТНТ (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",ТНТ (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",ТНТ (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",ТНТ (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",ТНТ (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",ТНТ (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",ТНТ
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",ТНТ (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТНТ (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТНТ (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТНТ4 (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",ТНТ4 (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",ТНТ4 (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",ТНТ4 (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",ТНТ4 (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",ТНТ4 (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",ТНТ4
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",ТНТ4 (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТНТ4 (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТНТ4 (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)", Суббота! (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)", Суббота! (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)", Суббота! (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)", Суббота! (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)", Суббота! (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)", Суббота! (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)", Суббота!
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)", Суббота! (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)", Суббота! (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)", Суббота! (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТВ3 (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",ТВ3 (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",ТВ3 (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",ТВ3 (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",ТВ3 (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",ТВ3 (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",ТВ3
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",ТВ3 (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТВ3 (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТВ3 (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТВЦ (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",ТВЦ (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",ТВЦ (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",ТВЦ (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",ТВЦ (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",ТВЦ (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",ТВЦ
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",ТВЦ (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТВЦ (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ТВЦ (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Звезда (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Звезда (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Звезда (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Звезда (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Звезда (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Звезда (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Звезда
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Звезда (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Звезда (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Звезда (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",МИР (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",МИР (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",МИР (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",МИР (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",МИР (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",МИР (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",МИР
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",МИР (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",МИР (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",МИР (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Пятница! (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Пятница! (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Пятница! (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Пятница! (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Пятница! (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Пятница! (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Пятница!
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Пятница! (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Пятница! (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Пятница! (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Россия К (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Россия К (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Россия К (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Россия К (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Россия К (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Россия К (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Россия К
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Россия К (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Россия К (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Россия К (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Че! (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Че! (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Че! (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Че! (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Че! (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Че! (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Че!
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",Че! (+2)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Че! (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Че! (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ (+2) 
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",МУЗ ТВ (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Ю (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",Ю (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",Ю (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",Ю (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",Ю (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",Ю (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",Ю
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Ю (+2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Ю (+4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",Ю (+7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",ОТР
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=3#parser
+#EXTINF: group-title="Архив.(-+)",ОТР (-1)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",ОТР (-2)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",ОТР (-3)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",ОТР (-4)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",ОТР (-5)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",ОТР (-6)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",ОТР (-7)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-25200
+#EXTINF: group-title="Архив.(-+)",ОТР (-8)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-28800
+#EXTINF: group-title="Архив.(-+)",ОТР (-9)
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-32400
+#EXTINF: group-title="Архив.(-+)",СПАС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
+#EXTINF: group-title="Архив.(-+)",СПАС (-1)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2&offset=-3600
+#EXTINF: group-title="Архив.(-+)",СПАС (-2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2&offset=-7200
+#EXTINF: group-title="Архив.(-+)",СПАС (-3)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2&offset=-10800
+#EXTINF: group-title="Архив.(-+)",СПАС (-4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2&offset=-14400
+#EXTINF: group-title="Архив.(-+)",СПАС (-5)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2&offset=-18000
+#EXTINF: group-title="Архив.(-+)",СПАС (-6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2&offset=-21600
+#EXTINF: group-title="Архив.(-+)",СПАС (-7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2&offset=-25200
+#EXTINF: group-title="Архив.(-+)",СПАС (-8)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2&offset=-28800
+#EXTINF: group-title="Архив.(-+)",СПАС (-9)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2&offset=-32400
