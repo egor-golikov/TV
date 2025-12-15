@@ -1703,42 +1703,7 @@ https://mhd128.iptv2022.com/p/qyQhnBp8MuDPKoKCydk2hQ,1765227625/streaming/tv41/3
 #EXTINF:-1 tvg-id="17214" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17214/logo_256_1682687911.png"  catchup-days="168", РБК Пермь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/XiPkAkJv8m_tBms9l_FdBg,1765227625/streaming/rbk-perm/324/1/index.m3u8
-#EXTINF:-1 tvg-id="17228" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17228/logo_256_1682688466.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d02b5bd6cb45d7ae45499baee411c702beda3f8/index-${start}-${offset}.m3u8" catchup-days="168", EROX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/5KMb9iMx6kBo0oauCDZjIw,1765227625/streaming/erox/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="12622" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12622/logo_256_1660891773.png"  catchup-days="168", Red Lips
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/g0bA9WqpVa0yqEq8S4e0DA,1765227625/streaming/redlips/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10237" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10237/logo_256_1658733547.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d02b5bd6cb45d7ae35591a4ef49067123f0a2f0dc29790e8ad316c31d7e7ee6eb64a9fe91bc91be4a3757b1c4aa89db1c1e/index-${start}-${offset}.m3u8" catchup-days="168", Blue Hustler
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/rvUTSxqKtq6a06juimEkeQ,1765227625/streaming/bluehustler/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10238" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10238/logo_256_1658733495.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d02b5bd6cb45d7ae35195a9eb4d017527f0a6f4d82d7d028ed709c7196f7ae2e060adfa95b88fba4e3753b5c4ae8ddb181a/index-${start}-${offset}.m3u8" catchup-days="168", Barely legal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/dTijRa-fYymnQ24-IL2Ggg,1765227625/streaming/barelylegal/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="12043" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12043/logo_256_1655389571.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d02b5bd6cb45d7ae45b93bae14b1c7f21f8acf2d5277b1584d10ccd1f6b70e4d86aabef9fbe95b048/index-${start}-${offset}.m3u8" catchup-days="168", Eromania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/qwuPsb24-b8w217DaKTrDQ,1765227625/streaming/eromania/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="11187" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11187/logo_256_1655386486.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d02b5bd6cb45d7af25a95a0e04d127e27f9adf4c1267d1585d70dcc196e71e2d86badef9eb895b14e/index-${start}-${offset}.m3u8" catchup-days="168", Шалун
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/mUYHGD0VR10I47KJK3YqzQ,1765227625/streaming/shalunhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10379" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10379/logo_256_1658744879.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d02b5bd6cb45d7ae45591b0ef491c7123e1a2f0dd2979188ad304c31d557ee6f364a9ed91bc/index-${start}-${offset}.m3u8" catchup-days="168", Exxxotica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/2PdizR694HNUTESKHBYCSQ,1765227625/streaming/exotica/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10181" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10181/logo_256_1658737484.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d02b5bd6cb45d7af35598bdef4000712afba2f9dd29701c8ada0dc3147e7eefd864a0ef91b595be43/index-${start}-${offset}.m3u8" catchup-days="168", Русская ночь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/gNuCIk8LlyifJqZlpTnhLA,1765227625/streaming/rusnight/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="29016" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29016/logo_256_1730109812.png"  catchup-days="168", Brazzers TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/h5gPXqqDqAXr1Ar25jIbVw,1765227625/streaming/brazzers/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="29009" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29009/logo_256_1730109743.png"  catchup-days="168", Babes TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/jULms-UOitwv0g1glv_jnA,1765227625/streaming/babes_tv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="29002" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29002/logo_256_1730109656.png"  catchup-days="168", Playboy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/coNw8UpeehNVW_-bUwC0tg,1765227625/streaming/playboy/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="30752" catchup="default" group-title="Взрослые" tvg-logo="https://epg.iptvx.one/picons/temptation-tv.png"  catchup-days="168", Temptation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/7gwL-qRuwTQ6HcvDx3MnFA,1765227625/streaming/temptation/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="27315" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/27315/logo_256_1723103999.png"  catchup-days="168", AIVA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/sg65S8XfqmzfDgNuvp0zEw,1765227625/streaming/aiva_tv/324/1/index.m3u8
